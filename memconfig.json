@@ -1,0 +1,33 @@
+{
+  "schema": {
+    "types": [
+      {
+        "name": "Root",
+        "actions": [
+          {
+            "name": "configure",
+            "type": "Void",
+            "params": [
+              {
+                "name": "keywords",
+                "type": "String"
+              },
+              {
+                "name": "documentId",
+                "type": "String"
+              }
+            ]
+          },
+          {
+            "name": "watchJobs",
+            "type": "Void"
+          }
+        ]
+      }
+    ]
+  },
+  "dependencies": {
+    "docs": "google-docs:documents",
+    "stories": "hn:items.page(page:1,pageSize:30,topic:\"job\")"
+  }
+}
