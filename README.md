@@ -1,6 +1,6 @@
 # Traker hn Jobs - Google Docs
 
-This is a Membrane program that save hn jobs to a google doc based in the keywords you set.
+This is a Membrane program that save HN Jobs to a Google Doc Based on Your Set Keywords
 
 ## How to use
 
