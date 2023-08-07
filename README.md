@@ -6,6 +6,6 @@ This is a Membrane program that save HN Jobs to a Google Doc Based on Your Set K
 
 Paste the following URL in your browser to open the directory inside the Membrane VSCode Extension.
 
-vscode://membrane.membrane/directory/example-traker-jobs-google-docs
+vscode://membrane.membrane/directory/example-hn-jobs-to-google-docs
 
 Run `:configure` and set the `documenId` and `keywords`.
