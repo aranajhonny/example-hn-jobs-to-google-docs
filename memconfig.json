@@ -25,7 +25,7 @@
             "description": "Watches for new Hacker News jobs and sends them to the configured Google Docs document"
           }
         ],
-        "description": "Driver for fetching Hacker News jobs and sending them to a Google Docs document"
+        "description": "Program for fetching Hacker News jobs and sending them to a Google Docs document"
       }
     ]
   },
